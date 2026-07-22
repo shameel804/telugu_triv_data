@@ -1,0 +1,773 @@
+[
+    {
+        "name": "Movies 1",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 1",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 11,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 2",
+        "lvls": 20,
+        "cost": 300,
+        "star": 17,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 3",
+        "lvls": 20,
+        "cost": 450,
+        "star": 34,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 4",
+        "lvls": 20,
+        "cost": 550,
+        "star": 51,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 5",
+        "lvls": 20,
+        "cost": 650,
+        "star": 68,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 2",
+        "lvls": 20,
+        "cost": 600,
+        "star": null,
+        "cover": 17,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 6",
+        "lvls": 20,
+        "cost": 800,
+        "star": 85,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 7",
+        "lvls": 20,
+        "cost": 1000,
+        "star": 102,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 8",
+        "lvls": 20,
+        "cost": 1200,
+        "star": 119,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 3",
+        "lvls": 20,
+        "cost": 700,
+        "star": null,
+        "cover": 7,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 9",
+        "lvls": 20,
+        "cost": 1400,
+        "star": 136,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 10",
+        "lvls": 17,
+        "cost": 1500,
+        "star": 153,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Dialogues 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Plot Summaries 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 2",
+        "lvls": 15,
+        "cost": 0,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 15",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "English Translations 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "English Translations 15",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations"
+    },
+    {
+        "name": "Character Trios 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Character Trios 15",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios"
+    },
+    {
+        "name": "Emoji Movies 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": 12,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    },
+    {
+        "name": "Emoji Movies 15",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies"
+    }
+]
